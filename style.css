@@ -1,0 +1,48 @@
+/* CSS Reset */
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(223, 175, 128);
+}
+div{
+    
+    width: 40%;
+    margin:auto;   
+    border:2px hsl(0, 82%, 2%) solid;
+    padding:2rem;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+li{
+    list-style-position: inside;
+}
+img{
+    border:1px white solid;
+    width:100%;
+    border-radius: 20px;
+    
+}
+.one{
+    background-color: rgba(145, 106, 165, 0.349);
+    text-indent: 1rem;
+    padding:0.7rem;
+    width:100%;
+}
+.two{
+    color: darkorchid;
+    display:block;
+}
+.three{
+    color:rgb(184, 112, 4);
+}
+td b{
+    color:rgb(184,112,4)
+}
+h1{
+   
+    font-size: 2rem;
+}
